@@ -9,7 +9,9 @@ public class SimpleCalculation {
 		for(int i=0;i<5;i++){
 			System.out.println(s);
 		}
-
+		for(int i=0;i<5;i++){
+			System.out.println(s);
+		}
 	}
 
 }
