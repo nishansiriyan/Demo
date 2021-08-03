@@ -1,0 +1,15 @@
+package Package1;
+
+public class Access2 {
+	public static void main(String args[]) {
+		//default
+		Access1 a=new Access1();
+		System.out.println(a.hours);
+		
+		//public
+		System.out.println(a.name);
+		
+		//protected
+		System.out.println(a.number);
+	}
+}
